@@ -1,0 +1,14 @@
+.card {
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.card--info {
+  border: 1px solid #ddd;
+}
+
+.card--pop {
+  border: none;
+  border: 1px solid grey;
+  box-shadow: 3px 3px 0px 0px grey
+}

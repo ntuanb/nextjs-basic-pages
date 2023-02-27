@@ -1,0 +1,14 @@
+.button {
+  border: none;
+  border-radius: 5px;
+  padding: 1rem;
+  color: white;
+}
+
+.button--success {
+  background-color: green;
+}
+
+.button--error {
+  background-color: red;
+}
